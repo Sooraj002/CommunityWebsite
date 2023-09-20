@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+}
+
+h1 {
+    position: relative;
+    margin:auto;
+    color: orange;
+}
+
+a {
+    padding: 7px 0px 0px 3px;
+}
+
+/* img {
+    height: 50px;
+} */
+
+.card {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+

@@ -1,0 +1,36 @@
+                body {
+                    /* margin: 0;
+                padding: 0; */
+                    align-items: center;
+                    background-color: white;
+                    background-image: url();
+                }
+                
+                .logo {
+                    text-align: center;
+                }
+                
+                img {
+                    width: 300px;
+                }
+                
+                h1 {
+                    text-decoration: none;
+                    color: black;
+                }
+                
+                .sign_in {
+                    margin-top: 100px;
+                }
+                
+                .log_in {
+                    margin-top: 200px;
+                }
+                
+                .center {
+                    margin: auto;
+                    text-align: center;
+                    background-color: orange;
+                    width: 200px;
+                    border-radius: 15px;
+                }
